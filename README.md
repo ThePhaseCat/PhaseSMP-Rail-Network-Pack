@@ -1,4 +1,4 @@
-# PhaseSMP Rail Network Resource Pack
+# THIS IS A BRANCH TO TEST AUDIO CHANGES, SUCH AS NEW MINECART SOUNDS AND OTHER NEW CUSTOM SOUNDS. THIS IS NOT A PRODUCTION-READY BRANCH AND AS SUCH, WILL PROBABLY HAVE MANY BUGS/GLITCHES
 This is a resource pack used on the PhaseSMP, mainly on the PhaseSMP Rail Network (PhaseRail) 
 
 - Features arrival music for every station on the network
